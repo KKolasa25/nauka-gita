@@ -1,10 +1,10 @@
 
-.poem a {
+.poem a, .poem h1 {
     font-family: 'Bellota';
 }
 
 .poem h1 {
-    font-family: 'Bellota';
+
     font-size: 40px;
     margin-bottom: 0;
 }
